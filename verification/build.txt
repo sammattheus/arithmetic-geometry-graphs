@@ -1,0 +1,15 @@
+Final full build, 2026-10-23T11:31:19.197706+00:00
+Lean leanprover/lean4:v4.36.0-rc1
+mathlib 3d14fd9a313ac35ed4b5c653ed5d99157c9e29f6
+
+Command (environment compatibility shim documented in README):
+LD_PRELOAD=/workspace/scratch/69012627e1b1/tmp/lean-audit/proc-self-compat.so PATH=/root/.elan/bin:$PATH lake build
+
+✔ [7564/7566] Built CayleyProof (1.4s)
+Build completed successfully (7566 jobs).
+Exit status: 0
+
+Audit command: lake env lean Audit.lean
+Exit status: 0
+Axiom audit passed for 430 project declarations.
+See axioms.txt for the complete dependency output.

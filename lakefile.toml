@@ -1,0 +1,11 @@
+name = "cayley-formalization"
+version = "0.3.0"
+defaultTargets = ["CayleyProof"]
+
+[[lean_lib]]
+name = "CayleyProof"
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "3d14fd9a313ac35ed4b5c653ed5d99157c9e29f6"

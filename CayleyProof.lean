@@ -1,0 +1,37 @@
+module
+
+public import CayleyProof.FiniteFieldGraph
+public import CayleyProof.GaussPairing
+public import CayleyProof.FiniteIndex
+public import CayleyProof.PolynomialGrowth
+public import CayleyProof.FiniteSignBalance
+public import CayleyProof.CompactUniform
+public import CayleyProof.PolynomialFamily
+public import CayleyProof.ArithmeticGeneration
+public import CayleyProof.Lemma15Verification
+public import CayleyProof.ExceptionalMoment
+public import CayleyProof.NormalizedSpectrum
+public import CayleyProof.PushforwardSupport
+public import CayleyProof.MonomialGauss
+public import CayleyProof.KatzSamples
+public import CayleyProof.EmpiricalSplit
+public import CayleyProof.Theorem18Analysis
+public import CayleyProof.CurveSpectralMeasure
+public import CayleyProof.SheafFactorization
+public import CayleyProof.CompactTrace
+public import CayleyProof.EquidistributionPushforward
+public import CayleyProof.Theorem18FromKatz
+public import CayleyProof.EvenMonomialGauss
+public import CayleyProof.PowerSums
+public import CayleyProof.ScalarTwistMonodromy
+public import CayleyProof.TorsionCharacters
+public import CayleyProof.CharacterLifts
+public import CayleyProof.MonomialFourier
+public import CayleyProof.MonomialFrobenius
+public import CayleyProof.CompactFrobeniusLaw
+public import CayleyProof.ArithmeticMonodromy
+public import CayleyProof.Theorem22
+public import CayleyProof.SheafMonodromyBridge
+public import CayleyProof.CohomologicalInputs
+public import CayleyProof.Theorem22Final
+public import CayleyProof.Theorem18Final
